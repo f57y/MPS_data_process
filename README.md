@@ -15,6 +15,33 @@
 
 建议使用 Python 3.10 及以上版本。
 
+## 快速部署
+
+在一台新机器上可以按下面命令快速部署并启动项目：
+
+```bash
+# 1. 获取代码
+git clone <仓库地址> exp_data
+cd exp_data
+
+# 2. 创建并启用虚拟环境
+python3 -m venv .venv
+source .venv/bin/activate
+
+# 3. 安装依赖
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
+
+# 4. 确保命令行入口可执行
+chmod +x exp_data exp_data_MH
+
+# 5. 启动 Spectra 或 MH_Curve 分析
+./exp_data run
+./exp_data_MH run
+```
+
+如果已经在当前项目目录中，只需要从第 2 步开始执行。`data/` 目录用于本地实验数据，部署后把待分析的 `.txt` 数据放入 `data/` 下即可。
+
 ## 数据存放说明
 
 建议将实验原始数据放在 `data/` 下按日期分目录管理，例如：

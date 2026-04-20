@@ -14,33 +14,53 @@
 ## 环境要求
 
 建议使用 Python 3.10 及以上版本。
+当前核心脚本仅使用 Python 标准库；`requirements.txt` 作为后续依赖版本锁定预留文件。
 
 ## 快速部署
 
 在一台新机器上可以按下面命令快速部署并启动项目：
 
+### Linux / macOS
+
 ```bash
 # 1. 获取代码
-git clone <仓库地址> exp_data
+git clone https://github.com/f57y/MPS_data_process exp_data
 cd exp_data
 
 # 2. 创建并启用虚拟环境
 python3 -m venv .venv
 source .venv/bin/activate
 
-# 3. 安装依赖
+# 3. 初始化 Python 环境（当前 requirements 无第三方依赖）
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 
-# 4. 确保命令行入口可执行
-chmod +x exp_data exp_data_MH
-
-# 5. 启动 Spectra 或 MH_Curve 分析
-./exp_data run
-./exp_data_MH run
+# 4. 启动 Spectra 或 MH_Curve 分析
+python exp_data run
+python exp_data_MH run
 ```
 
-如果已经在当前项目目录中，只需要从第 2 步开始执行。`data/` 目录用于本地实验数据，部署后把待分析的 `.txt` 数据放入 `data/` 下即可。
+### Windows PowerShell
+
+```powershell
+# 1. 获取代码
+git clone https://github.com/f57y/MPS_data_process exp_data
+cd exp_data
+
+# 2. 创建并启用虚拟环境
+py -m venv .venv
+.\.venv\Scripts\Activate.ps1
+
+# 3. 初始化 Python 环境（当前 requirements 无第三方依赖）
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
+
+# 4. 启动 Spectra 或 MH_Curve 分析
+python exp_data run
+python exp_data_MH run
+```
+
+如果已经在当前项目目录中，只需要从“创建虚拟环境”步骤开始执行。`data/` 目录用于本地实验数据，部署后把待分析的 `.txt` 数据放入 `data/` 下即可。
 
 ## 数据存放说明
 
@@ -102,13 +122,13 @@ data/
 5000.000000000000 0.942895423386 -0.183953636620
 ```
 
-## 快速启动命令
+## 常用启动方式（部署后）
 
 ### 1) 交互模式（推荐）
 
 ```bash
-python3 exp_data run
-python3 exp_data_MH run
+python exp_data run
+python exp_data_MH run
 ```
 
 启动后按提示拖入目标文件（或文件夹）并回车。
@@ -116,23 +136,23 @@ python3 exp_data_MH run
 ### 2) 指定数据文件夹启动
 
 ```bash
-python3 exp_data run --folder data/20260417
-python3 exp_data_MH run --folder data/20260417
+python exp_data run --folder data/20260417
+python exp_data_MH run --folder data/20260417
 ```
 
 ### 3) 直接指定单个文件启动
 
 ```bash
 # 直接分析单个 Spectra 文件
-python3 exp_data run --file data/20260417/20_Spectra.txt
+python exp_data run --file data/20260417/20_Spectra.txt
 
 # 直接分析单个 MH_Curve 文件
-python3 exp_data_MH run --file data/20260417/水凝胶_MH_Curve.txt
+python exp_data_MH run --file data/20260417/水凝胶_MH_Curve.txt
 ```
 
 ## CLI 拖拽操作说明
 
-1. 在终端运行命令（如 `python3 exp_data run`）。
+1. 在终端运行命令（如 `python exp_data run`）。
 2. 看到提示后，将文件管理器里的目标文件拖到终端窗口。
 3. 终端会自动填入文件路径，按回车即可开始处理。
 4. 本次处理完成后，可继续拖入下一个文件；按 `Ctrl+C` 结束程序。

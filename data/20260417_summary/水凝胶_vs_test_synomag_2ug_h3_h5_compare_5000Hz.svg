@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="980" viewBox="0 0 1600 980">
+<rect width="1600" height="980" fill="#ffffff"/>
+<text x="90" y="56" font-size="32" font-weight="700" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">水凝胶 vs test_synomag_2ug 谐波趋势对比</text>
+<text x="90" y="84" font-size="16" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#52606d">5000Hz | 所有曲线已按各自首测归一化，因此 0% 代表第 1 次测量值</text>
+<rect x="90" y="108" width="1450" height="84" rx="16" fill="#f6f8fb" stroke="#d7dee7"/>
+<text x="110" y="140" font-size="16" font-weight="700" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">前后差异摘要</text>
+<text x="110" y="166" font-size="15" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">第三谐波: 水凝胶: -14.02% | test_synomag_2ug: +0.06%</text>
+<text x="110" y="188" font-size="15" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">第五谐波: 水凝胶: -21.73% | test_synomag_2ug: +0.02%</text>
+<line x1="1070" y1="140" x2="1104" y2="140" stroke="#0f766e" stroke-width="5"/>
+<text x="1116" y="146" font-size="15" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">水凝胶</text>
+<line x1="1070" y1="164" x2="1104" y2="164" stroke="#2563eb" stroke-width="5"/>
+<text x="1116" y="170" font-size="15" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">test_synomag_2ug</text>
+<rect x="90" y="220" width="980" height="280" fill="#fbfcfe" stroke="#c7d0db"/>
+<text x="90" y="198" font-size="26" font-weight="700" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">第三谐波相对变化</text>
+<text x="90" y="218" font-size="15" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#52606d">越往下代表相对首测衰减越明显，末测标签直接显示相对首测变化百分比</text>
+<line x1="90" y1="220.00" x2="1070" y2="220.00" stroke="#d9dfe8" stroke-width="1"/>
+<text x="76" y="225.00" text-anchor="end" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">1.8%</text>
+<line x1="90" y1="276.00" x2="1070" y2="276.00" stroke="#d9dfe8" stroke-width="1"/>
+<text x="76" y="281.00" text-anchor="end" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">-1.7%</text>
+<line x1="90" y1="332.00" x2="1070" y2="332.00" stroke="#d9dfe8" stroke-width="1"/>
+<text x="76" y="337.00" text-anchor="end" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">-5.2%</text>
+<line x1="90" y1="388.00" x2="1070" y2="388.00" stroke="#d9dfe8" stroke-width="1"/>
+<text x="76" y="393.00" text-anchor="end" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">-8.7%</text>
+<line x1="90" y1="444.00" x2="1070" y2="444.00" stroke="#d9dfe8" stroke-width="1"/>
+<text x="76" y="449.00" text-anchor="end" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">-12.2%</text>
+<line x1="90" y1="500.00" x2="1070" y2="500.00" stroke="#d9dfe8" stroke-width="1"/>
+<text x="76" y="505.00" text-anchor="end" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">-15.7%</text>
+<line x1="90.00" y1="220" x2="90.00" y2="500" stroke="#d9dfe8" stroke-width="1"/>
+<text x="90.00" y="528" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">1</text>
+<line x1="190.00" y1="220" x2="190.00" y2="500" stroke="#d9dfe8" stroke-width="1"/>
+<text x="190.00" y="528" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">6</text>
+<line x1="310.00" y1="220" x2="310.00" y2="500" stroke="#d9dfe8" stroke-width="1"/>
+<text x="310.00" y="528" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">12</text>
+<line x1="410.00" y1="220" x2="410.00" y2="500" stroke="#d9dfe8" stroke-width="1"/>
+<text x="410.00" y="528" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">17</text>
+<line x1="530.00" y1="220" x2="530.00" y2="500" stroke="#d9dfe8" stroke-width="1"/>
+<text x="530.00" y="528" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">23</text>
+<line x1="630.00" y1="220" x2="630.00" y2="500" stroke="#d9dfe8" stroke-width="1"/>
+<text x="630.00" y="528" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">28</text>
+<line x1="750.00" y1="220" x2="750.00" y2="500" stroke="#d9dfe8" stroke-width="1"/>
+<text x="750.00" y="528" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">34</text>
+<line x1="850.00" y1="220" x2="850.00" y2="500" stroke="#d9dfe8" stroke-width="1"/>
+<text x="850.00" y="528" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">39</text>
+<line x1="970.00" y1="220" x2="970.00" y2="500" stroke="#d9dfe8" stroke-width="1"/>
+<text x="970.00" y="528" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">45</text>
+<line x1="1070.00" y1="220" x2="1070.00" y2="500" stroke="#d9dfe8" stroke-width="1"/>
+<text x="1070.00" y="528" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">50</text>
+<line x1="90" y1="500" x2="1070" y2="500" stroke="#6b7785" stroke-width="1.5"/>
+<line x1="90" y1="220" x2="90" y2="500" stroke="#6b7785" stroke-width="1.5"/>
+<line x1="90" y1="248.08" x2="1070" y2="248.08" stroke="#94a3b8" stroke-width="2" stroke-dasharray="8 6"/>
+<polyline fill="none" stroke="#0f766e" stroke-width="3.2" points="90.00,248.08 110.00,276.61 130.00,297.76 150.00,316.87 170.00,335.10 190.00,351.31 210.00,365.59 230.00,378.17 250.00,388.66 270.00,397.94 290.00,405.73 310.00,412.91 330.00,419.01 350.00,424.17 370.00,428.91 390.00,432.89 410.00,436.35 430.00,439.47 450.00,442.54 470.00,445.40 490.00,447.34 510.00,449.53 530.00,451.32 550.00,452.91 570.00,454.54 590.00,456.10 610.00,457.47 630.00,458.59 650.00,459.89 670.00,461.01 690.00,462.47 710.00,463.37 730.00,464.09 750.00,464.90 770.00,465.51 790.00,466.31 810.00,467.29 830.00,467.84 850.00,468.52 870.00,468.85 890.00,469.31 910.00,469.47 930.00,470.05 950.00,470.81 970.00,471.11 990.00,471.40 1010.00,471.88 1030.00,472.39 1050.00,472.56 1070.00,472.90"/>
+<circle cx="90.00" cy="248.08" r="5" fill="#0f766e" stroke="#ffffff" stroke-width="2"/>
+<circle cx="1070.00" cy="472.90" r="5.5" fill="#ffffff" stroke="#0f766e" stroke-width="3"/>
+<polyline fill="none" stroke="#2563eb" stroke-width="3.2" points="90.00,248.08 110.00,249.30 130.00,249.68 150.00,249.61 170.00,249.35 190.00,249.19 210.00,249.13 230.00,249.09 250.00,249.23 270.00,249.32 290.00,249.34 310.00,249.52 330.00,249.60 350.00,249.70 370.00,249.74 390.00,249.89 410.00,249.88 430.00,249.94 450.00,249.92 470.00,249.93 490.00,249.89 510.00,249.99 530.00,250.00 550.00,250.05 570.00,250.12 590.00,249.96 610.00,250.02 630.00,249.96 650.00,249.85 670.00,249.70 690.00,249.58 710.00,249.57 730.00,249.55 750.00,249.23 770.00,249.17 790.00,249.12 810.00,249.20 830.00,248.94 850.00,248.78 870.00,248.66 890.00,248.52 910.00,248.40 930.00,248.32 950.00,248.01 970.00,247.88 990.00,247.75 1010.00,247.75 1030.00,247.71 1050.00,247.71 1070.00,247.10"/>
+<circle cx="90.00" cy="248.08" r="5" fill="#2563eb" stroke="#ffffff" stroke-width="2"/>
+<circle cx="1070.00" cy="247.10" r="5.5" fill="#ffffff" stroke="#2563eb" stroke-width="3"/>
+<text x="1060" y="237.10" text-anchor="end" font-size="14" font-weight="700" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#2563eb">test_synomag_2ug +0.06%</text>
+<text x="1060" y="494.90" text-anchor="end" font-size="14" font-weight="700" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#0f766e">水凝胶 -14.02%</text>
+<rect x="1106" y="228" width="400" height="264" rx="16" fill="#f6f8fb" stroke="#d7dee7"/>
+<text x="1126" y="260" font-size="20" font-weight="700" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">首测 vs 末测</text>
+<line x1="1126" y1="284" x2="1158" y2="284" stroke="#0f766e" stroke-width="5"/>
+<text x="1170" y="290" font-size="16" font-weight="700" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">水凝胶</text>
+<text x="1126" y="318" font-size="15" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">首测 0.1547  ->  末测 0.1330</text>
+<text x="1126" y="344" font-size="15" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">绝对变化 -0.0217</text>
+<text x="1126" y="370" font-size="15" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#0f766e">相对首测 -14.02%</text>
+<line x1="1126" y1="380" x2="1158" y2="380" stroke="#2563eb" stroke-width="5"/>
+<text x="1170" y="386" font-size="16" font-weight="700" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">test_synomag_2ug</text>
+<text x="1126" y="414" font-size="15" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">首测 1.9854  ->  末测 1.9867</text>
+<text x="1126" y="440" font-size="15" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">绝对变化 +0.0012</text>
+<text x="1126" y="466" font-size="15" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#2563eb">相对首测 +0.06%</text>
+<text x="580.00" y="556" text-anchor="middle" font-size="18" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">Measurement Index</text>
+<text x="34" y="360.00" transform="rotate(-90 34 360.00)" text-anchor="middle" font-size="18" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">Relative Change vs First Measurement</text>
+<rect x="90" y="580" width="980" height="280" fill="#fbfcfe" stroke="#c7d0db"/>
+<text x="90" y="558" font-size="26" font-weight="700" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">第五谐波相对变化</text>
+<text x="90" y="578" font-size="15" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#52606d">水凝胶与 test_synomag_2ug 使用同一坐标口径，便于直接比较首尾差异</text>
+<line x1="90" y1="580.00" x2="1070" y2="580.00" stroke="#d9dfe8" stroke-width="1"/>
+<text x="76" y="585.00" text-anchor="end" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">2.6%</text>
+<line x1="90" y1="636.00" x2="1070" y2="636.00" stroke="#d9dfe8" stroke-width="1"/>
+<text x="76" y="641.00" text-anchor="end" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">-2.8%</text>
+<line x1="90" y1="692.00" x2="1070" y2="692.00" stroke="#d9dfe8" stroke-width="1"/>
+<text x="76" y="697.00" text-anchor="end" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">-8.2%</text>
+<line x1="90" y1="748.00" x2="1070" y2="748.00" stroke="#d9dfe8" stroke-width="1"/>
+<text x="76" y="753.00" text-anchor="end" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">-13.6%</text>
+<line x1="90" y1="804.00" x2="1070" y2="804.00" stroke="#d9dfe8" stroke-width="1"/>
+<text x="76" y="809.00" text-anchor="end" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">-18.9%</text>
+<line x1="90" y1="860.00" x2="1070" y2="860.00" stroke="#d9dfe8" stroke-width="1"/>
+<text x="76" y="865.00" text-anchor="end" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">-24.3%</text>
+<line x1="90.00" y1="580" x2="90.00" y2="860" stroke="#d9dfe8" stroke-width="1"/>
+<text x="90.00" y="888" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">1</text>
+<line x1="190.00" y1="580" x2="190.00" y2="860" stroke="#d9dfe8" stroke-width="1"/>
+<text x="190.00" y="888" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">6</text>
+<line x1="310.00" y1="580" x2="310.00" y2="860" stroke="#d9dfe8" stroke-width="1"/>
+<text x="310.00" y="888" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">12</text>
+<line x1="410.00" y1="580" x2="410.00" y2="860" stroke="#d9dfe8" stroke-width="1"/>
+<text x="410.00" y="888" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">17</text>
+<line x1="530.00" y1="580" x2="530.00" y2="860" stroke="#d9dfe8" stroke-width="1"/>
+<text x="530.00" y="888" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">23</text>
+<line x1="630.00" y1="580" x2="630.00" y2="860" stroke="#d9dfe8" stroke-width="1"/>
+<text x="630.00" y="888" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">28</text>
+<line x1="750.00" y1="580" x2="750.00" y2="860" stroke="#d9dfe8" stroke-width="1"/>
+<text x="750.00" y="888" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">34</text>
+<line x1="850.00" y1="580" x2="850.00" y2="860" stroke="#d9dfe8" stroke-width="1"/>
+<text x="850.00" y="888" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">39</text>
+<line x1="970.00" y1="580" x2="970.00" y2="860" stroke="#d9dfe8" stroke-width="1"/>
+<text x="970.00" y="888" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">45</text>
+<line x1="1070.00" y1="580" x2="1070.00" y2="860" stroke="#d9dfe8" stroke-width="1"/>
+<text x="1070.00" y="888" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">50</text>
+<line x1="90" y1="860" x2="1070" y2="860" stroke="#6b7785" stroke-width="1.5"/>
+<line x1="90" y1="580" x2="90" y2="860" stroke="#6b7785" stroke-width="1.5"/>
+<line x1="90" y1="607.28" x2="1070" y2="607.28" stroke="#94a3b8" stroke-width="2" stroke-dasharray="8 6"/>
+<polyline fill="none" stroke="#0f766e" stroke-width="3.2" points="90.00,607.28 110.00,635.11 130.00,659.75 150.00,681.32 170.00,700.59 190.00,717.12 210.00,732.09 230.00,744.33 250.00,754.47 270.00,763.12 290.00,770.71 310.00,777.52 330.00,782.89 350.00,788.04 370.00,792.27 390.00,795.87 410.00,799.29 430.00,802.33 450.00,805.61 470.00,807.98 490.00,810.07 510.00,811.44 530.00,814.12 550.00,816.26 570.00,818.97 590.00,819.93 610.00,821.03 630.00,821.87 650.00,822.77 670.00,823.90 690.00,824.83 710.00,825.42 730.00,826.05 750.00,826.79 770.00,827.24 790.00,827.85 810.00,828.64 830.00,828.87 850.00,829.55 870.00,829.90 890.00,830.05 910.00,830.20 930.00,830.82 950.00,830.98 970.00,831.48 990.00,831.97 1010.00,832.16 1030.00,832.33 1050.00,832.28 1070.00,832.90"/>
+<circle cx="90.00" cy="607.28" r="5" fill="#0f766e" stroke="#ffffff" stroke-width="2"/>
+<circle cx="1070.00" cy="832.90" r="5.5" fill="#ffffff" stroke="#0f766e" stroke-width="3"/>
+<polyline fill="none" stroke="#2563eb" stroke-width="3.2" points="90.00,607.28 110.00,608.88 130.00,609.48 150.00,609.64 170.00,609.60 190.00,609.58 210.00,609.64 230.00,609.66 250.00,609.85 270.00,609.92 290.00,609.92 310.00,610.09 330.00,610.16 350.00,610.24 370.00,610.26 390.00,610.37 410.00,610.35 430.00,610.37 450.00,610.30 470.00,610.27 490.00,610.21 510.00,610.26 530.00,610.23 550.00,610.27 570.00,610.31 590.00,610.12 610.00,610.15 630.00,610.08 650.00,609.94 670.00,609.81 690.00,609.66 710.00,609.67 730.00,609.63 750.00,609.31 770.00,609.21 790.00,609.15 810.00,609.23 830.00,608.96 850.00,608.80 870.00,608.70 890.00,608.54 910.00,608.42 930.00,608.32 950.00,608.02 970.00,607.86 990.00,607.73 1010.00,607.73 1030.00,607.71 1050.00,607.73 1070.00,607.10"/>
+<circle cx="90.00" cy="607.28" r="5" fill="#2563eb" stroke="#ffffff" stroke-width="2"/>
+<circle cx="1070.00" cy="607.10" r="5.5" fill="#ffffff" stroke="#2563eb" stroke-width="3"/>
+<text x="1060" y="597.10" text-anchor="end" font-size="14" font-weight="700" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#2563eb">test_synomag_2ug +0.02%</text>
+<text x="1060" y="854.90" text-anchor="end" font-size="14" font-weight="700" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#0f766e">水凝胶 -21.73%</text>
+<rect x="1106" y="588" width="400" height="264" rx="16" fill="#f6f8fb" stroke="#d7dee7"/>
+<text x="1126" y="620" font-size="20" font-weight="700" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">首测 vs 末测</text>
+<line x1="1126" y1="644" x2="1158" y2="644" stroke="#0f766e" stroke-width="5"/>
+<text x="1170" y="650" font-size="16" font-weight="700" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">水凝胶</text>
+<text x="1126" y="678" font-size="15" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">首测 0.0392  ->  末测 0.0307</text>
+<text x="1126" y="704" font-size="15" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">绝对变化 -0.0085</text>
+<text x="1126" y="730" font-size="15" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#0f766e">相对首测 -21.73%</text>
+<line x1="1126" y1="740" x2="1158" y2="740" stroke="#2563eb" stroke-width="5"/>
+<text x="1170" y="746" font-size="16" font-weight="700" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">test_synomag_2ug</text>
+<text x="1126" y="774" font-size="15" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">首测 0.6859  ->  末测 0.6860</text>
+<text x="1126" y="800" font-size="15" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">绝对变化 +0.0001</text>
+<text x="1126" y="826" font-size="15" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#2563eb">相对首测 +0.02%</text>
+<text x="580.00" y="916" text-anchor="middle" font-size="18" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">Measurement Index</text>
+<text x="34" y="720.00" transform="rotate(-90 34 720.00)" text-anchor="middle" font-size="18" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">Relative Change vs First Measurement</text>
+<text x="1578" y="962" text-anchor="end" font-size="12" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#6b7785">Generated by scripts/plot_harmonic_comparison.py</text>
+</svg>

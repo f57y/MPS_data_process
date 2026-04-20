@@ -1,0 +1,42 @@
+Fe3O4_last_Spectra 5000Hz Harmonic Analysis
+source_file	/home/yukee/projects/exp_data/data/20260410/Fe3O4_last_Spectra.txt
+output_dir	/home/yukee/projects/exp_data/data/20260410_summary
+
+[harmonic_3]
+measurement_count	30
+magnitude_min	0.396501314094
+magnitude_max	0.399227595024
+magnitude_mean	0.398494119084
+magnitude_std	0.000669021979
+cv_percent	0.167888
+linear_slope_per_measurement	7.026849723918e-05
+first_value	0.396501314094
+last_value	0.399205989560
+drift_last_minus_first	0.002704675466
+drift_percent_of_mean	0.678724
+
+[harmonic_5]
+measurement_count	30
+magnitude_min	0.097869454766
+magnitude_max	0.099036094659
+magnitude_mean	0.098717991629
+magnitude_std	0.000286094090
+cv_percent	0.289809
+linear_slope_per_measurement	2.988641838351e-05
+first_value	0.097869454766
+last_value	0.099036094659
+drift_last_minus_first	0.001166639893
+drift_percent_of_mean	1.181791
+
+[harmonic_5_over_3]
+measurement_count	30
+magnitude_min	0.246832611360
+magnitude_max	0.248082687256
+magnitude_mean	0.247727109437
+magnitude_std	0.000303393222
+cv_percent	0.122471
+linear_slope_per_measurement	3.135377504450e-05
+first_value	0.246832611360
+last_value	0.248082687256
+drift_last_minus_first	0.001250075896
+drift_percent_of_mean	0.504618

@@ -1,0 +1,2 @@
+# This project currently uses Python standard library only.
+# Keep this file for future dependency pinning.

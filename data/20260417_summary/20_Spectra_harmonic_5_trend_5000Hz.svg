@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760">
+<rect width="1400" height="760" fill="#ffffff"/>
+<text x="90" y="56" font-size="28" font-weight="700" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">Harmonic 5 Magnitude Trend</text>
+<text x="90" y="84" font-size="16" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">20_Spectra.txt | 5000Hz</text>
+<rect x="90" y="100" width="900" height="540" fill="#fbfcfe" stroke="#c7d0db"/>
+<line x1="90" y1="100.00" x2="990" y2="100.00" stroke="#d9dfe8" stroke-width="1"/>
+<text x="78" y="105.00" text-anchor="end" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">0.122051</text>
+<line x1="90" y1="208.00" x2="990" y2="208.00" stroke="#d9dfe8" stroke-width="1"/>
+<text x="78" y="213.00" text-anchor="end" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">0.120585</text>
+<line x1="90" y1="316.00" x2="990" y2="316.00" stroke="#d9dfe8" stroke-width="1"/>
+<text x="78" y="321.00" text-anchor="end" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">0.119118</text>
+<line x1="90" y1="424.00" x2="990" y2="424.00" stroke="#d9dfe8" stroke-width="1"/>
+<text x="78" y="429.00" text-anchor="end" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">0.117651</text>
+<line x1="90" y1="532.00" x2="990" y2="532.00" stroke="#d9dfe8" stroke-width="1"/>
+<text x="78" y="537.00" text-anchor="end" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">0.116184</text>
+<line x1="90" y1="640.00" x2="990" y2="640.00" stroke="#d9dfe8" stroke-width="1"/>
+<text x="78" y="645.00" text-anchor="end" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">0.114717</text>
+<line x1="90.00" y1="100" x2="90.00" y2="640" stroke="#d9dfe8" stroke-width="1"/>
+<text x="90.00" y="670" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">1</text>
+<line x1="315.00" y1="100" x2="315.00" y2="640" stroke="#d9dfe8" stroke-width="1"/>
+<text x="315.00" y="670" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">2</text>
+<line x1="540.00" y1="100" x2="540.00" y2="640" stroke="#d9dfe8" stroke-width="1"/>
+<text x="540.00" y="670" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">3</text>
+<line x1="765.00" y1="100" x2="765.00" y2="640" stroke="#d9dfe8" stroke-width="1"/>
+<text x="765.00" y="670" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">4</text>
+<line x1="990.00" y1="100" x2="990.00" y2="640" stroke="#d9dfe8" stroke-width="1"/>
+<text x="990.00" y="670" text-anchor="middle" font-size="14" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">5</text>
+<line x1="90" y1="640" x2="990" y2="640" stroke="#6b7785" stroke-width="1.5"/>
+<line x1="90" y1="100" x2="90" y2="640" stroke="#6b7785" stroke-width="1.5"/>
+<polyline fill="none" stroke="#d95f02" stroke-width="3" points="90.00,137.24 315.00,137.24 540.00,139.44 765.00,198.65 990.00,602.76"/>
+<polyline fill="none" stroke="#5f6368" stroke-width="2" stroke-dasharray="8 6" points="90.00,44.58 990.00,441.55"/>
+<circle cx="90.00" cy="137.24" r="4.2" fill="#d95f02" opacity="0.92"/>
+<circle cx="315.00" cy="137.24" r="4.2" fill="#d95f02" opacity="0.92"/>
+<circle cx="540.00" cy="139.44" r="4.2" fill="#d95f02" opacity="0.92"/>
+<circle cx="765.00" cy="198.65" r="4.2" fill="#d95f02" opacity="0.92"/>
+<circle cx="990.00" cy="602.76" r="4.2" fill="#d95f02" opacity="0.92"/>
+<text x="540.00" y="732" text-anchor="middle" font-size="18" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">Measurement Index</text>
+<text x="34" y="370.00" transform="rotate(-90 34 370.00)" text-anchor="middle" font-size="18" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">Magnitude</text>
+<rect x="1025" y="150" width="280" height="275" rx="14" fill="#f6f8fb" stroke="#d7dee7"/>
+<text x="1045" y="184" font-size="20" font-weight="700" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">Quick Stats</text>
+<text x="1045" y="212" font-size="16" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">Count: 5</text>
+<text x="1045" y="240" font-size="16" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">Min: 0.115223</text>
+<text x="1045" y="268" font-size="16" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">Max: 0.121546</text>
+<text x="1045" y="296" font-size="16" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">Mean: 0.120108</text>
+<text x="1045" y="324" font-size="16" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">Std: 0.002754</text>
+<text x="1045" y="352" font-size="16" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">CV: 2.2930%</text>
+<text x="1045" y="380" font-size="16" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">Slope: -1.348e-03</text>
+<text x="1045" y="408" font-size="16" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">Drift: -5.2639%</text>
+<line x1="1025" y1="461" x2="1057" y2="461" stroke="#d95f02" stroke-width="4"/>
+<text x="1069" y="467" font-size="15" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">Measured magnitude</text>
+<line x1="1025" y1="493" x2="1057" y2="493" stroke="#5f6368" stroke-width="3" stroke-dasharray="8 6"/>
+<text x="1069" y="499" font-size="15" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#1f2933">Linear trend</text>
+<text x="1378" y="742" text-anchor="end" font-size="12" font-family="Noto Sans SC, Microsoft YaHei, sans-serif" fill="#6b7785">Generated by harmonic_plot_cli.py</text>
+</svg>

@@ -1,0 +1,42 @@
+40_Spectra 5000Hz Harmonic Analysis
+source_file	/home/yukee/projects/exp_data/data/20260417/40_Spectra.txt
+output_dir	/home/yukee/projects/exp_data/data/20260417_summary
+
+[harmonic_3]
+measurement_count	5
+magnitude_min	0.454443727533
+magnitude_max	0.478647364298
+magnitude_mean	0.471121984093
+magnitude_std	0.010299985413
+cv_percent	2.186267
+linear_slope_per_measurement	-2.441385520780e-03
+first_value	0.467937123966
+last_value	0.454443727533
+drift_last_minus_first	-0.013493396433
+drift_percent_of_mean	-2.864098
+
+[harmonic_5]
+measurement_count	5
+magnitude_min	0.118355208688
+magnitude_max	0.124350343849
+magnitude_mean	0.122092099568
+magnitude_std	0.002522055327
+cv_percent	2.065699
+linear_slope_per_measurement	-3.390323264835e-04
+first_value	0.120753940178
+last_value	0.118355208688
+drift_last_minus_first	-0.002398731490
+drift_percent_of_mean	-1.964690
+
+[harmonic_5_over_3]
+measurement_count	5
+magnitude_min	0.258055909638
+magnitude_max	0.260439745380
+magnitude_mean	0.259158957900
+magnitude_std	0.001010222999
+cv_percent	0.389808
+linear_slope_per_measurement	6.319347803802e-04
+first_value	0.258055909638
+last_value	0.260439745380
+drift_last_minus_first	0.002383835742
+drift_percent_of_mean	0.919835

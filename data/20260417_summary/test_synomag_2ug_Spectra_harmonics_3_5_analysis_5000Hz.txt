@@ -1,0 +1,42 @@
+test_synomag_2ug_Spectra 5000Hz Harmonic Analysis
+source_file	/home/yukee/projects/exp_data/data/20260417/test_synomag_2ug_Spectra.txt
+output_dir	/home/yukee/projects/exp_data/data/20260417_summary
+
+[harmonic_3]
+measurement_count	50
+magnitude_min	1.982928378473
+magnitude_max	1.986670748726
+magnitude_mean	1.984067939122
+magnitude_std	0.000968539291
+cv_percent	0.048816
+linear_slope_per_measurement	3.880749768961e-05
+first_value	1.985449221192
+last_value	1.986670748726
+drift_last_minus_first	0.001221527534
+drift_percent_of_mean	0.061567
+
+[harmonic_5]
+measurement_count	50
+magnitude_min	0.683829869140
+magnitude_max	0.685990009119
+magnitude_mean	0.684485585706
+magnitude_std	0.000621186810
+cv_percent	0.090752
+linear_slope_per_measurement	2.487581028912e-05
+first_value	0.685872224901
+last_value	0.685990009119
+drift_last_minus_first	0.000117784217
+drift_percent_of_mean	0.017208
+
+[harmonic_5_over_3]
+measurement_count	50
+magnitude_min	0.344808535917
+magnitude_max	0.345449391292
+magnitude_mean	0.344990937706
+magnitude_std	0.000156799781
+cv_percent	0.045450
+linear_slope_per_measurement	5.787341881907e-06
+first_value	0.345449391292
+last_value	0.345296274966
+drift_last_minus_first	-0.000153116326
+drift_percent_of_mean	-0.044383

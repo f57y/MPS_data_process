@@ -1,0 +1,61 @@
+水凝胶_MH_Curve 5000Hz MH Curve Analysis
+source_file	/home/yukee/projects/exp_data/data/20260417/水凝胶_MH_Curve.txt
+output_dir	/home/yukee/projects/exp_data/data/20260417_summary
+points_per_measurement	201
+measurement_count	50
+definition_ms	average(|high-field magnetization|) with 95% field threshold
+definition_mr	(Mr+ - Mr-) / 2, interpolated at H = 0 on descending/return branches
+definition_hc	(Hc+ - Hc-) / 2, interpolated at M = 0 on ascending/descending branches
+definition_loop_area	absolute value of ∮M dH
+
+[ms]
+count	50
+min	1.035449043463
+max	3.480976625705
+mean	1.713741386709
+std	0.727048655123
+cv_percent	42.424642
+linear_slope_per_measurement	-4.520520409315e-02
+first_value	2.790456302754
+last_value	1.035449043463
+drift_last_minus_first	-1.755007259291
+drift_percent_of_mean	-102.407940
+
+[mr]
+count	50
+min	0.332872203978
+max	0.475669466707
+mean	0.371882636051
+std	0.041789054898
+cv_percent	11.237162
+linear_slope_per_measurement	-2.572322495126e-03
+first_value	0.423788281603
+last_value	0.332872203978
+drift_last_minus_first	-0.090916077625
+drift_percent_of_mean	-24.447519
+
+[hc]
+count	50
+min	1.589296916763
+max	2.684273796092
+mean	2.264062801313
+std	0.351851696024
+cv_percent	15.540722
+linear_slope_per_measurement	2.348895879693e-02
+first_value	1.665160772012
+last_value	2.684273796092
+drift_last_minus_first	1.019113024080
+drift_percent_of_mean	45.012578
+
+[loop_area]
+count	50
+min	10.734450333883
+max	17.084090220752
+mean	12.494467785668
+std	1.863285018377
+cv_percent	14.912880
+linear_slope_per_measurement	-1.150358971838e-01
+first_value	14.680894438711
+last_value	10.734450333883
+drift_last_minus_first	-3.946444104828
+drift_percent_of_mean	-31.585532

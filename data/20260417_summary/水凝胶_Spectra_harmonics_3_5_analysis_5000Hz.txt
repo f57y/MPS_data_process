@@ -1,0 +1,42 @@
+水凝胶_Spectra 5000Hz Harmonic Analysis
+source_file	/home/yukee/projects/exp_data/data/20260417/水凝胶_Spectra.txt
+output_dir	/home/yukee/projects/exp_data/data/20260417_summary
+
+[harmonic_3]
+measurement_count	50
+magnitude_min	0.133019222655
+magnitude_max	0.154717850125
+magnitude_mean	0.137037976312
+magnitude_std	0.005330439995
+cv_percent	3.889754
+linear_slope_per_measurement	-3.036050083626e-04
+first_value	0.154717850125
+last_value	0.133019222655
+drift_last_minus_first	-0.021698627470
+drift_percent_of_mean	-15.834025
+
+[harmonic_5]
+measurement_count	50
+magnitude_min	0.030710488443
+magnitude_max	0.039237026178
+magnitude_mean	0.032189480293
+magnitude_std	0.002069976293
+cv_percent	6.430599
+linear_slope_per_measurement	-1.156896528928e-04
+first_value	0.039237026178
+last_value	0.030710488443
+drift_last_minus_first	-0.008526537735
+drift_percent_of_mean	-26.488585
+
+[harmonic_5_over_3]
+measurement_count	50
+magnitude_min	0.230872559847
+magnitude_max	0.253603744791
+magnitude_mean	0.234681969155
+magnitude_std	0.005586557381
+cv_percent	2.380480
+linear_slope_per_measurement	-3.093678482509e-04
+first_value	0.253603744791
+last_value	0.230872559847
+drift_last_minus_first	-0.022731184944
+drift_percent_of_mean	-9.685953

@@ -1,0 +1,54 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+
+import argparse
+import sys
+from pathlib import Path
+
+
+PROJECT_ROOT = Path(__file__).resolve().parent
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
+
+from harmonic_plot_cli import run
+
+
+def build_parser() -> argparse.ArgumentParser:
+    parser = argparse.ArgumentParser(
+        prog="exp_data",
+        description="实验数据命令行工具。",
+    )
+    subparsers = parser.add_subparsers(dest="command", required=True)
+
+    run_parser = subparsers.add_parser(
+        "run",
+        help="持续接收 Spectra 文件，并生成第三、第五谐波变化图。",
+        description="持续接收 Spectra 文件，并生成第三、第五谐波变化图。",
+    )
+    run_parser.add_argument("--folder", help="可选，数据文件夹路径。")
+    run_parser.add_argument("--file", help="目标 Spectra 文件路径，可直接拖入终端。")
+    run_parser.add_argument(
+        "--output-dir",
+        help="输出目录，默认自动生成 *_summary 文件夹。",
+    )
+
+    return parser
+
+
+def main() -> None:
+    parser = build_parser()
+    args = parser.parse_args()
+
+    if args.command == "run":
+        try:
+            run(args.folder, args.file, args.output_dir)
+        except KeyboardInterrupt:
+            print("\n已取消。")
+        except EOFError:
+            print("\n已结束。")
+        except ValueError as exc:
+            print(f"\n处理失败: {exc}")
+
+
+if __name__ == "__main__":
+    main()
